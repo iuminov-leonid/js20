@@ -11,6 +11,9 @@ let BASKETIMG = ['https://www.placehold.it/100x80', 'https://www.placehold.it/10
   'https://www.placehold.it/100x80', 'https://www.placehold.it/100x80'
 ];
 
+
+
+
 function createProductsDTO(arr) {
   arr = [];
 
